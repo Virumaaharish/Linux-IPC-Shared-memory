@@ -1,5 +1,8 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
+NAME: VIRUMAA HARISH M
+
+REG: 212223230246
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
